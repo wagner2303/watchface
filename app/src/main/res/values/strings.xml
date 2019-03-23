@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baby\'s WatchFace</string>
+    <string name="message">Watch face tapped</string>
+    <string name="simple_analog_name">Simple Analog</string>
+</resources>
